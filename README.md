@@ -18,3 +18,6 @@ Als User, kannst du den Command nicht benutzen.
 Commands:
 /givemoney [ID] [Number]
 /removemoney [ID] [Number]
+
+
+Pls don't reupload it
